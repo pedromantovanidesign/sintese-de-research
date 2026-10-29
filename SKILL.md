@@ -45,8 +45,8 @@ Um tema sem a frase de alguém dentro dele é invenção. A saída é sempre:
 ```
 TEMA · uma frase que diz o que está acontecendo
   quantas pessoas · quais entrevistas
-  "a frase literal de quem falou"  — participante 04
-  "outra frase, de outra pessoa"   — participante 09
+  "a frase literal de quem falou"  · participante 04
+  "outra frase, de outra pessoa"   · participante 09
 ```
 
 ### 🔴 Tema de uma pessoa só não é tema
