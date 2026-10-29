@@ -35,7 +35,7 @@ LICENSE     MIT
 ## Instalar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/sintese-de-research.git ~/.claude/skills/sintese-de-research
+git clone https://github.com/pedromantovanidesign/sintese-de-research.git ~/.claude/skills/sintese-de-research
 ```
 
 O Claude Code carrega a skill sozinho quando o assunto aparece, ou com `/sintese-de-research`.
